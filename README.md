@@ -1,4 +1,4 @@
-# 📦 ML - App
+# 🗿 ML - App
 
 This is a ML app test.
 
